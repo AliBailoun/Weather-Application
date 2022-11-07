@@ -1,7 +1,7 @@
 # Weather-Application!!
 
 ### Description:
-With this website you will alwas be ready for the weather (especially New York weather where it's winter at night and summer during daytime), as it displays various information such as the current and upcoming weather (the next 5 days), humidity, wind speed and the U.V index!!
+With this website you will always be ready for the weather (especially New York weather where it's winter at night and summer during daytime), as it displays various information such as the current and upcoming weather (the next 5 days), humidity, wind speed and the U.V index!!
 
 ### Link to the website:
 https://alibailoun.github.io/Weather-Application/
