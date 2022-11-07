@@ -7,7 +7,7 @@ With this website you will always be ready for the weather (especially New York 
 https://alibailoun.github.io/Weather-Application/
 
 ### Link to the repository:
-git@github.com:AliBailoun/Weather-Application.git
+https://github.com/AliBailoun/Weather-Application
 
 ### Link to a screenshot:
 ![screencapture-file-C-Users-aliba-code-bootcamp-homework-Weather-Application-index-html-2022-11-07-18_04_12](https://user-images.githubusercontent.com/113944928/200434116-1a8be4e1-08ae-4d94-8ee1-dd1fd19b4cd2.png)
